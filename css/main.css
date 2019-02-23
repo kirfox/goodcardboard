@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  padding: 15px 0;
+}
+
+.header-contacts {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.header-contacts__phone {
+  font-size: 22px;
+  margin-right: 13px;
+}
+
+.button {
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #fd9c28;
+  border: none;
+  color: #ffffff;
+  padding: 13px 22px;
+  border-radius: 5px;
+}
+
+.button img {
+  vertical-align: middle;
+}
